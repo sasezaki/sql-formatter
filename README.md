@@ -108,7 +108,7 @@ echo (new SqlFormatter())->highlight($query);
 
 Output:
 
-<img src="examples/readme_highlight_html.svg" width="600" height="150" alt="HTML Highlight output">
+<img src="examples/readme_highlight_html.svg" width="800" height="150" alt="HTML Highlight output">
 
 ### Compress Query
 
